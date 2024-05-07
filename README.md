@@ -6,6 +6,7 @@
 ## 🛠️ Build With 
 - [Unity](https://docs.unity.com/) - Game graphics engine.
 - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - Unity programming language.
+- [Vuforia](https://developer.vuforia.com/library/) - Augmented Reality library.
 
 ## 📄 License 
 This project is licensed under the [Apache License 2.0](./LICENSE)
